@@ -4,6 +4,15 @@
     {
       "type": "vcs",
       "url": "https://github.com/ictinnovations/RestServer"
+      {
+    "name": "ictinnovations/ictcore",
+    "description": "ICTCore open source telephony framework",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "php": ">=7.4"
+    }
+}
     },
     {
       "type": "vcs",
